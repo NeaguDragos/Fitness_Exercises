@@ -1,0 +1,19 @@
+.subHeader-container {
+    display: flex;
+    gap: 1rem;
+    border: 1px solid white;
+    padding: 0.5rem;
+    justify-content: center;
+}
+
+.select {
+    border-radius: 5px;
+    border: 1px solid gold;
+    background: rgb(255, 0, 0);
+    color: white;;
+}
+
+.select:hover{
+    cursor: pointer;
+}
+  

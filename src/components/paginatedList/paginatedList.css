@@ -1,0 +1,34 @@
+.paginated-list-container {
+    margin: 1rem;
+  }
+  
+  .paginated-list-content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .paginated-list-navigation {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin: 1rem 0;
+  
+  }
+  
+  button {
+    width: 3rem;
+    height: 1.5rem;
+    background: rgb(255, 0, 0);
+    color: white;
+    border-radius: 5px;
+    border: 1px solid gold;
+    transition: all 0.3s ease-in-out;
+    
+  
+  }
+  button:hover {
+    cursor: pointer;
+  }
+  
